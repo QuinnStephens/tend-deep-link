@@ -1,5 +1,4 @@
-# Tend Deep Linking
-## Your #1 Online Resource for Deep Links in the Tend App!
-### Amazing!
+# Tend Deep Linking Example
+## Open this page on your device and tap the link below to open the signup view within the app.
 
-[Link to the signup page in tend with the email porcupine@example.net](tend://signup?email=porcupine@example.net)
+##[Sign up for Tend](tend://signup?email=porcupine@example.net)
